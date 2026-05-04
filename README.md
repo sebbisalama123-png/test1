@@ -5,6 +5,6 @@ hey
 
 # UNITY SACCO
 
-### 🔗 **Project Demonstration**
-> ### **[▶️ WATCH: UNITY SACCO FULL SYSTEM DEMO](https://www.youtube.com)**
-> **High-Prominence Walkthrough:** *Explore the complete digital ecosystem—from real-time member onboarding and secure authentication to automated transaction ledgers and the modern Jetpack Compose interface.*
+### **Project Identity**
+> ### **[▶️ Watch: Unity Sacco Digital System Demonstration](https://youtu.be/V-113RGYXfI?si=zeoyxHPODluUq4uU)**  
+> **Featured Showcase:** *A high-prominence walkthrough of the real-time financial ecosystem, modern UI, and digital ledger integration.*
