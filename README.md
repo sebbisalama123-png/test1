@@ -14,7 +14,7 @@ hey
 
 ### **Project Identity**
 # **UNITY SACCO**
-> ### **✨ [▶️ Watch: Unity Sacco Mobile App Demonstration](https://youtu.be/V-113RGYXfI?si=zeoyxHPODluUq4uU)**  
+> ### ** [▶️ Watch: Unity Sacco Mobile App Demonstration](https://youtu.be/V-113RGYXfI?si=zeoyxHPODluUq4uU)**  
 > **Featured Showcase:** *A high-prominence walkthrough of the real-time financial ecosystem, modern UI, and digital ledger integration.*
 
 ### **Project Identity**
