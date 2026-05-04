@@ -19,7 +19,7 @@ hey
 
 ### **Project Identity**
 # **UNITY SACCO**
-> ### ** [▶️ Watch: Unity Sacco Mobile App Demonstration](https://youtu.be/V-113RGYXfI?si=zeoyxHPODluUq4uU)**  
-> **Featured Showcase:** *A role-based technical walkthrough organized for grading:*
+> ### **[▶️ Watch: Unity Sacco Mobile App Demonstration](https://youtu.be/V-113RGYXfI?si=zeoyxHPODluUq4uU)**    
+> **Featured Showcase:** *A role-based technical walkthrough*
 
 
